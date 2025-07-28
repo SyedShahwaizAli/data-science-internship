@@ -5,7 +5,7 @@ This repository contains all the tasks and notebooks completed during my **Data 
 ## 📚 Contents
 
 - ✅ Task 1: Explore and Visualize the Iris Dataset
-- ⏳ Task 2: (Coming soon...)
+- ✅ Task 2: Credit Risk Prediction (Loan Approval)
 - 📈 More tasks will be added weekly
 
 ## 🧰 Tools Used
