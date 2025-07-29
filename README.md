@@ -6,7 +6,9 @@ This repository contains all the tasks and notebooks completed during my **Data 
 
 - ✅ Task 1: Explore and Visualize the Iris Dataset
 - ✅ Task 2: Credit Risk Prediction (Loan Approval)
-- 📈 More tasks will be added weekly
+- ✅ Task 3: Customer Churn Prediction for Bank Customers
+- ✅ Task 4: Predicting Medical Insurance Claim Amounts
+- ✅ Task 5: Personal Loan Acceptance Prediction
 
 ## 🧰 Tools Used
 
